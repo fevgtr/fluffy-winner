@@ -1,0 +1,1001 @@
+
+
+mi "欸？"
+
+
+
+hi "什么？"
+
+show shizu behind_frustrated_ss
+with charachange
+
+
+ssh "她们以为自己能肩负起新学生会的重任？ 她们也太不专心了。 让人能很明显地看出她们的经验不足。 今年可是我们学生会迄今为止运作最好的一年，我不觉得她们能继承我们的辉煌。 "
+
+
+show shizu basic_frown_ss
+with charachange
+
+
+ssh "而且我知道学校里肯定不止那两个小姑娘想加入。 他们又如何？ 他们就像是那些广受好评的低成本黑马作品续作：宣传华丽却不受瞩目，大手笔却惨遭非议。 "
+
+
+
+show mishashort perky_confused_ss
+show shizu behind_blank_ss:
+    ypos 1.1
+with dissolvecharamove
+
+
+"她终于说完坐下了。"
+
+
+
+hi "你会怀念学生会吗？"
+
+
+show shizu basic_normal_ss
+with charachange
+
+
+ssh "还用说吗"
+
+
+show mishashort perky_sad_ss
+with charachange
+
+
+mi "嗯~……如果不用毕业的话我也会更开心 "
+
+
+
+show mishashort hips_smile_ss
+with charachange
+
+
+mi "我喜欢呆在学生会里，就算很累，也喜欢。"
+
+
+
+hi "是啊，绝对不轻松。"
+
+show mishashort hips_grin_ss
+with charachange
+
+
+mi "只是因为小静总是想揽下更多的工作呀~"
+
+
+show shizu adjust_frown_ss
+with charachange
+
+
+ssh "你别忘了如果我只是应付公事，我们到最后也不过就是分派一些传单，回收调查表，然后计划下一届的学生会选举，好让他们坐在我们的位置上再吃一年白饭。"
+
+
+show shizu behind_frown_ss
+with charachange
+
+
+ssh "要我让那种事发生？ 别开玩笑了！ 那样的学生会简直就是名存实亡。 "
+
+
+show shizu adjust_happy_ss
+with charachange
+
+
+ssh "我只是很开心。 尽管显然我还要更严格的教育那两个小姑娘，可她们也不错。 虽然还稍欠火候， 不过这次学生会是会交到能人手里。 "
+
+
+
+hi "你怎么知道？"
+
+show shizu behind_smile_ss
+with charachange
+
+
+ssh "过节后，她们问我能不能举办一个万圣节活动。 比如说鬼屋一类的东西。 她们也有很多别的提议。"
+
+
+show shizu adjust_smug_ss
+with charachange
+
+
+ssh "我的回答当然是 “不行”。 我让米莎告诉她们了，如果真的很想举办的话就自己去准备。 可不知为何她们生气了。 "
+
+
+show mishashort cross_laugh_ss
+with charachange
+
+
+mi "啊哈哈~"
+
+
+hi "你把话说的那么过分她们当然会生气了。"
+
+
+"而且就算是米莎替你转述，结果也会一样。"
+
+
+show mishashort cross_smile_ss
+show shizu behind_blank_ss
+with charachange
+
+
+ssh "我当时也很生气。"
+
+show shizu basic_frown_ss
+with charachange
+
+
+ssh "她们突然要求太多了。 如果想要鬼屋，或者传统咖啡店，又或是沙滩旅行，还是说其他什么老掉牙的玩意儿， 为什么她们以前没试着组织过？ 这看起来简直就像是她们在利用我。 "
+
+
+show shizu behind_frown_ss
+with charachange
+
+
+ssh "我为这些节日活动倾注了无数心血，而她们回过头来却告诉我 “诶呀，那个干的可真不错，但你现在能不能做这个呀？怎么样？ 这才是我们真正想要的呀~~ ” "
+
+
+show mishashort sign_smile_ss
+with charachange
+
+
+mi "但是这次小静错了哟~ "
+
+show shizu basic_happy_ss
+with charachange
+
+
+ssh "对，她们想加入学生会，那样就可以让一切变为现实。 我让她们感到嫉妒还惹恼了她们。这也算是一种动力啊。 "
+
+
+show shizu adjust_happy_ss
+with charachange
+
+
+ssh " 上进成了风气，即便是为了超越我。可她们居然质疑我。 "
+
+
+show shizu behind_blank_ss
+with charachange
+
+
+ssh "我对此印象深刻。 好吧，眼下我继续考验她们，日久见人心。"
+
+
+play sound sfx_snap
+
+show shizu adjust_happy_ss
+show mishashort perky_confused_ss:
+    ease 0.1 ypos 1.05
+    ease 0.1 ypos 1.1
+with vpunch
+
+
+"她突然打了个响指， 米莎条件反射般从座位上弹了起来。 我觉得米莎的动作很有意思，百看不厌。"
+
+
+show shizu basic_happy_ss
+with charachange
+
+
+ssh "对了！ 我们要开个派对来庆祝学生会工作的交接，不是吗？ 现在举办怎么样？至少从今天开始计划！ 干脆就明天庆祝吧！ "
+
+
+hi "可她们还没有交接学生会。事实上，你告诉她们的第一件事就是 ：“你们还没到时候呢！ ” 派对计划看起来有点过早了。"
+
+
+show shizu adjust_frown_ss
+with charachange
+
+
+shi "…"
+
+show shizu behind_blank_ss
+with charachange
+
+
+ssh "米莎，你怎么想？"
+show mishashort hips_smile_ss
+with charachange
+
+
+mi "嗯……~ 我同意，这有点太早了。 而且，我也参加不了。 抱歉啦~！ 其实，我打算现在就走啦。"
+
+
+
+ssh "为什么不留下？"
+
+
+show mishashort hips_grin_ss
+with charachange
+
+
+mi "无~可~奉~告~"
+
+show shizu adjust_frown_ss
+with charachange
+
+
+ssh "别胡闹，快告诉我！"
+
+show mishashort perky_confused_ss
+with charachange
+
+
+mi "欸…好吧~！"
+
+
+"别就这么屈服在淫威之下啊，米莎"
+
+show mishashort sign_confused_ss
+with charachange
+
+
+mi "我仔细想过了，而且~ 即使不想参加，一般来讲的话，我也会说 “好的没问题~！” 我大概就是这样的人。 我觉得自己必须改变，现在就是改变的机会，而且这也是个很好的起点。"
+
+
+show mishashort perky_sad_ss
+with charachange
+
+
+mi "如果这是离别会的话，我不想参加。 那样太悲伤了~ 我想做些别的什么。 对了，久夫君，你和小静明天还会在这里吧，那样可不太对。"
+
+
+show mishashort hips_grin_ss
+with charachange
+
+
+mi "而且，今天学校里还有些其它的要紧事~！我不能就这么扔下不管。 "
+
+
+show shizu adjust_frown_ss
+with charachange
+
+
+ssh "我们可以推迟派对。"
+
+
+show mishashort hips_frown_ss
+with charachange
+
+
+mi "我拒绝。 我不要过早的离别！"
+
+
+"她说这句话时眼神十分坚定。"
+
+
+hi "可你刚才不是说现在就要走吗？"
+
+show mishashort hips_grin_ss
+with charachange
+
+
+mi "欸~？ 哦，对~！ 哈哈~！ "
+
+show mishashort perky_smile_ss at twoleft
+with Dissolvemove(0.7)
+
+show mishashort sign_smile_ss
+with charachange
+
+
+mi "好吧，除了这次， 不准有过早的离别，明白了吗？ "
+
+show shizu behind_blank_ss
+with charachange
+
+
+ssh "我明白了。"
+
+show mishashort hips_grin_ss
+with charachange
+
+
+mi "好的，一会儿见~！ "
+stop music fadeout 4.0
+
+hide mishashort
+with charaexit
+
+show bg school_council_ss:
+    subpixel True
+    center
+    parallel:
+        "bg school_council_ni" with Dissolve(5.0)
+    parallel:
+        ease 5.0 bgleft
+show shizu behind_blank_ss:
+    subpixel True
+    parallel:
+        "shizu behind_blank" with Dissolve(5.0, alpha=True)
+    parallel:
+        ease 5.0 xpos 0.5
+with None
+
+
+"然后，这里就只剩下静音和我了。"
+
+play music music_dreamy fadein 4.0
+
+with Pause(2.0)
+
+
+"我们静静地坐着，都想找些话说，却都没有开口，不知不觉中迎来了夜幕。"
+
+
+show bg school_council_ni at bgleft
+show shizu adjust_frown:
+    center
+    subpixel False ypos 1.1
+with Dissolvemove(0.5)
+
+
+ssh "这主意真的有那么糟吗？"
+
+
+
+hi "嗯。 我没那么想过，不过米莎是对的。 派对是能建立一个气氛，而离别会的气氛很凝重。 悲伤的离别会听起来可不怎么欢乐。"
+
+show shizu basic_angry
+with charachange
+
+
+ssh "可为什么离别会是悲伤的？"
+
+
+"这是故意问我的吗？应该就是。 静音的视线穿透我的双眼，她的凝视是那么的超然，仿佛是想看透我的心底，我已很久没有被人这么凝视过， 但这感觉却如此熟悉。"
+
+
+"我谨慎地思考着我的回答，同时也思索着她问我的深意。"
+
+
+"有可能是静音也发觉了那是令人压抑的。又或者她无法理解为什么会有人那样觉得。两种可能都说得过去。"
+
+
+
+hi "我一直认为，一旦毕业，就将是学生会的终结。 我不知道你是不是也这么想。"
+
+
+show shizu behind_frown
+with charachange
+
+
+ssh " 别傻了。我很期待毕业的那天。 我将不再是一名学生，期望也会截然不同。 人们对我的期望和我对一切的期望。都很令人激动！"
+
+
+show shizu adjust_frown
+with charachange
+
+
+ssh "至于学生会，那会交在适合的人手里。 我没有什么好悲伤的。"
+
+
+
+
+hi "我不觉得你在说实话。 几周前你似乎还在为要离开学生会而难过。这不仅是把学生会交给一帮新人来管理，也代表着我们不能再继续做学生会的工作了。 "
+
+show shizu behind_smile
+with charachange
+
+
+"静音意外地微笑了。"
+
+
+hi "看来,你是不打算反驳我了。"
+
+
+hi "那就说不通了。 为什么你明知如此还想举行这个派对？"
+show shizu basic_normal
+with charachange
+
+
+ssh "我在努力过这个坎儿。 而且… 离别会是非常重要的。 人们常说虎头不能蛇尾，对吧？"
+
+
+
+hi "我想你说的没错。"
+
+show shizu adjust_smug
+with charachange
+
+
+ssh "无论如何，我不认为这将是离别。 但这仍然是个大事。 人还是要走寻常路。"
+
+show shizu behind_blank
+with charachange
+
+stop music fadeout 4.0
+
+
+ssh "你不打算做吗？"
+
+
+hi "做什么？"
+
+
+show shizu basic_normal
+with charachange
+
+
+ssh "当然是亲我了。"
+
+
+hi "这也算是 “寻常路” 吗 ？ "
+
+show shizu behind_blank
+with charachange
+
+
+ssh "这不是很寻常吗？这是自然的事。 "
+
+
+"该果断行动了。 如果不这么做，我的心脏肯定会爆掉的。"
+
+show shizu adjust_blush_close
+with charachange
+
+
+"我立刻吻了上去，速度之快我都没来得及享受她的双唇。 即便她做好了准备，也仍然满脸通红。我感受到一股同样的热度迅速爬上我的脖颈和脸颊。 "
+
+
+play music music_one fadein 4.0
+
+scene evh shizu_undressing_clothed_stare
+with whiteout
+
+
+"我靠近她想索求另一个吻。但我一靠近，她就向后闪去，并且顽皮地坐在了后面的柜子上。在一片沉寂之中，我们两人对视了很久。"
+
+
+show evh shizu_undressing_clothed_kiss
+with charachange
+
+
+"这一次，我深深地吻了她。我向后移开，望着她那微微张开晶莹而干燥的红唇。在静音热情地吻回来之前，我只得片刻来品味这美妙的触感。 "
+
+
+
+"她的刘海掠过我因沉醉于亲吻而紧闭的眼睛。透过衣服感觉到静音的身体只会使我更加用力地抱紧她。"
+
+
+show evh shizu_undressing_clothed_blush
+with charachange
+
+
+"将嘴唇分开是件挺艰难的事。我们都红着脸，不仅是因为亲吻，还因为接下来要发生的事。而我可不仅仅是这里唯一一个呼吸紊乱的人。"
+
+
+
+"静音摘下我的领带时，我开始解开她的衬衫。我费了很大功夫才弄明白该怎么脱下她的衬衫。毕竟，我从来没想过我们学校女校服的结构。"
+
+
+"静音的衬衫对她来说稍微有点紧，由此衣服卡在了胳膊那里。我突然发觉自己也在脱她的衣服，尽管她也一直扭动着上身想把衣服脱下来，这可真不容易。现在这样的情景有点滑稽"
+
+
+play sound sfx_rustling
+
+show evh shizu_undressing_unclothed_closed
+with charachange
+
+
+"脱下衬衫后，静音的双手就解放了，她马上解开了裙子，裙子滑到膝盖部位，然后被她脱下，丢在地上。现在她身上的遮身衣物就只剩单薄的胸罩和内裤了。"
+
+
+
+
+"她看起来是如此婀娜多姿，紧致肌肤的健康颜色与内裤的黑色对比十分鲜明。在月光的照耀下，如此美妙的景致婉如梦中一般。"
+
+
+show evh shizu_undressing_unclothed_blush
+with charachange
+
+
+"她看着我的胸膛开始逐个解开我衬衣的扣子。 然而却被我在她大腿上游动的双手严重阻碍了。 这样玩弄她让我有点想笑。"
+
+
+show evh shizu_undressing_unclothed_kiss
+with charachange
+
+
+"最后我的衬衫终于也落在了地上。静音没有任何征兆地把我拉近并深吻了上来，让我吃了一惊。但我很快就恢复了原来的姿势。"
+
+
+show evh shizu_undressing_unclothed_talk
+with charachange
+
+
+ssh "为什么你今天比那时在屋顶上还大胆？"
+
+
+ssh "还有在你房间的时候？"
+
+
+"我试图想出一个合理的回答，但这并不简单。即便能想出我又怎能告诉她？ 这个问题根本没法回答，除非我告诉她这种环境弄得我欲火中烧。"
+
+
+
+"衬衫被处理掉后，静音开始向下游走。与其回答那个问题我还不如帮她解开我的腰带。我不觉得在这时回答问题会带来什么好处。"
+
+
+scene bg school_council_ni
+with locationchange
+
+
+"腰带不难解开，很快我就听到了金属落地的脆响。我向前倾去并把手附在她的腰上想要索取另一个吻。但这时她突然从柜子上下来了，使得我不得不向后蹒跚了几步。"
+
+
+
+"我把身后桌子的硬桌角忘得一干二净，直到那顶到我后背时才注意到。这让我把静音抱得更紧了，同时我们躺倒在了那张桌子上。 "
+
+
+label zhs_S35h:
+
+show evh shizu_pushdown
+with charachange
+
+
+"静音胜利一般压在我身上，我忍住了一声叹息。她又赢了。"
+
+
+
+"心里乱作一团的我直到静音的胸罩落在我身上才回过神来，那仿佛是从天而降。尽管我拼命想忍住，可还是笑了起来，我的笑很容易感染，让她也笑了起来。"
+
+
+
+"从胸罩中释放出来的双峰比我想象的还要丰满，尽管透过衬衫那就已经足够吸引人的目光。我双手游走在她身上时，她用手指捡起落在我身上的胸罩并轻轻地抛在了一边。"
+
+
+
+"骑在我身上的静音脱下了她的内裤，与此同时我的双手不知不觉中溜到了她的臀部开始帮静音剥掉它。这时我瞥了一眼自己的手表。虽然才只过了几分钟，但对我而言却如此漫长。"
+
+
+
+"她轻松地俯下身来，慢慢将我们的胸膛贴在了一起，她的胸部压在我胸口的伤疤上时有一种奇怪的感觉。"
+
+
+window hide
+
+show evh shizu_straddle_open
+with whiteout
+
+with Pause(7.0)
+
+window show
+
+
+"当静音坐起来时，我感觉到我的下体滑入了静音，被她的下面包裹着，同时她的胸部离开了我的上身。双线进攻。 在这种情况下我还能如此冷静地思考，和她真像。 "
+
+
+show evh shizu_straddle_tease
+with charachange
+
+
+ssh " 我应该现在就停下来，然后把你留在自己的欲火中煎熬。"
+
+
+
+"她说，同时开始扭动着腰肢，突如其来的快感让我眨了下眼。静音真是奇怪。我很快就放弃了思考。"
+
+
+show evh shizu_straddle_closed
+with charachange
+
+
+shi "…嘶"
+
+
+
+"静音咬着下嘴唇想阻止声音溢出。多余的声音。这是我第一次听到她发出的声音。静音一发觉是自己发出了那种声音，瞬间就脸红了。"
+
+
+
+"为了掩饰这一点，静音更用力地扭起腰来，甚至我都被摇动了，让我在她的体内更加坚挺了。"
+
+
+
+"受到突然刺激的我将胯部猛推向她，而静音则奋起反抗，我试图抽出压在身后的手臂，而她却想把我压回在桌子上。"
+
+
+show evh shizu_straddle_smile
+with charachange
+
+
+"在这时，她用更大幅度的腰部动作回应了我。"
+
+
+
+"静音轻柔，矜持的呻吟，还有随着她臀部的每次变形而上下翻动的丰满胸部，加上学生会办公室的宁静，都愈加挑起我的情欲。"
+
+
+
+ssh "嗯~…"
+
+
+shi "…嗯~啊…"
+
+
+
+"我几乎要受不了了。愉悦之感在我的股间膨胀，静音的体重更让我的快感加倍，使得我思考都变得困难。我的腰开始不由自主地动了起来。"
+
+
+
+"我们重叠的双手被她压在桌面上。她每一个动作都在把我往回推。 "
+
+
+
+"在我们的重量下桌子被摇得吱呀作响。我怀疑桌子会突然散架，这声音真的很响。"
+
+
+show evh shizu_straddle_come
+with charachange
+
+
+"然而静音并没有注意到。只是她的节奏变得越来越快，直到让我感觉自己能在桌子上滑动。她的动作毫无征兆地到了最后的高潮。"
+
+
+scene bg school_council_ni
+with locationchange
+with vpunch
+
+
+"突然间，她停了下来，由于惯性而几乎是摔在了我身上，差点把我们一块撞晕。最糟的情况可能就是在我们昏迷时有人碰巧走了进来。"
+
+
+
+"我很惊讶，但还不足以忘掉我们仍然赤身裸体，更何况刚才痛苦的中断。"
+
+
+
+"为什么会这样？难道是为了故意让我在自己的欲望中苦苦挣扎？ 静音羞怯地松了口气，和我同时意识到了这一点。 "
+
+
+show shizu behind_blank_nak
+with charaenter
+
+
+ssh "抱歉，我是不小心绊倒了，或打滑了什么的。"
+
+
+
+hi "我一直在想，门锁上了吗？"
+
+hide shizu
+with charaexit
+
+
+"她马上从桌子上下来并跑过去检查，锁上，又打开，然后又锁上，为了确保上锁还拧了拧门把手。最终确定之后，她还做了一个不合时宜的动作。"
+
+
+show shizu behind_smile_nak
+with charaenter
+
+
+ssh "安全上垒！"
+
+
+hi "你能做事这么随意我真高兴。"
+
+
+show shizu behind_frown_nak
+with charachange
+
+
+ssh "我又不是故意的，那你怎么不自己先把门锁上？"
+
+
+show shizu behind_smilelow_nak
+with charachange
+
+
+ssh "来吧。"
+
+
+hide shizu
+with charaexit
+
+
+"我抓住静音的双肩想把她放倒在桌子上。 桌子的边缘撞到她后背时，她不爽地皱着眉头，就像我那时一样。她自己坐到了桌子上。 "
+
+
+scene evh shizu_table_smile
+with dissolve
+
+
+"这也是我第一次见到静音赤裸的躺在我面前。她锁骨和胸部的轮廓是如此美丽，让我的双眼顺着她的锁骨一直欣赏到她匀称的臀部，她的腰肢十分苗条，身材很棒。 "
+
+
+
+"我用双手抚过她身体的曲线，从肩膀到下面。"
+
+
+
+"我慢慢地将我自己插入静音直到全部进入。一股猛烈的温暖与紧致立刻包围了我。 我开始在她体内运动并开始找回我们之前停止时的感觉。"
+
+
+
+"每一次我们胯部的相遇与每一次进出，还有每一次的拥抱，我都能感觉到她紧贴着我皮肤的身体是如此的炙热。我感觉她的体温足以将我烫伤。"
+
+
+
+"而且，我的感觉比刚才更加敏感，发觉自己在更加用力地突入静音来弥补这一点。"
+
+
+scene evh shizu_table_normal
+with charachange
+
+
+"我一只手顺着她大腿的曲线爱抚，另一只手小心地挑逗着她。她反应激烈时我几乎要失去平衡，不停地胯部相撞几乎要将我们两个都推到地板上。"
+
+
+
+"我双手上移，握紧她丰满的双乳像我一直以来想做的那样抚弄。摸起来比看上去还要大，从我的指间溢出，柔软而且拥有着完美的形状。"
+
+
+
+"我用手指玩弄着她的乳头时，她难为情地在我身下扭动着，双手绕过我的手臂，与我十指相扣并把我拉近了她。感觉就像是在摔跤一样，这是个必杀的锁技。"
+
+
+
+"自我们第一次握手时起，我想我们就被连在了一起。"
+
+
+
+"不管是她拉着我的手从一个学生会活动跑到另一个活动，还是恋人之间的牵手。双手紧握时所传达的信任都从未改变。"
+
+
+
+"她摊开双臂抓紧桌子边缘，双腿扣住我的后背，使我们的距离更进一步，使我们结合的更加紧密，让我深陷在她的体内。"
+
+
+show evh shizu_table_comeopen
+with charachange
+
+
+"她的内壁是如此的温热紧致，同时她还在不停地迎合我，摩擦的触感不断地增加，将我推向了高潮。"
+
+
+show evh shizu_table_comeclosed
+with whiteout
+
+stop music fadeout 4.0
+
+
+"一切都发生得太快，那种感觉结束了。由于精疲力竭还有她的腿仍缠在我腰上，这之后我所能做的就只有留在她的体内同时双手伏在桌子上。而静音，则宛如梦幻般微笑着。"
+
+
+
+"这景象也让我微笑起来。她缓缓地分开双腿，允许我把自己退出来。"
+
+
+label zhs_S35x:
+
+scene bg school_council_ni
+with locationchange
+
+
+"疲惫的我将后背靠在另一张桌子上，在穿上衣服前努力稳住呼吸。"
+
+
+
+"在系上衬衫扣子时，我感觉到胸口一股晦暗的跳动。这给刚发生的一切都蒙上了一层阴霾。"
+
+
+show shizu behind_smile_nak
+with charaenter
+
+
+ssh "这是一次米莎不在的幸运休息，不是吗？"
+
+
+hi "你今天反常地爱开玩笑。"
+
+
+hi "不知道米莎一定要做的事是什么。"
+
+
+show shizu behind_blank_nak
+with charachange
+
+
+"静音的指尖懒散地滑过空气指着门口。"
+
+
+ssh "你自己去看看。"
+
+
+hi "为什么你不直接告诉我？"
+
+show shizu behind_smile_nak
+with charachange
+
+
+ssh "如果你自己去看的话会更有趣。眼见为实。"
+
+
+
+hi "说的也是。你真是机灵古怪。 也许我会去看一下。那你怎么办，打算在这里呆一整天吗？天越来越晚了。"
+
+
+show shizu behind_blank_nak
+with charachange
+
+
+ssh "这感觉像是我作为学生会会长的最后一天，所以今晚也许我会睡在这儿。这可能是我睡在自己桌子上的最后机会，就像有时工作一整天来赶时间一样。"
+
+
+
+hi "你真是奇怪。"
+
+
+hi "我要睡在自己床上。"
+
+
+
+ssh "坐着睡觉也是一项技能，非常有用。"
+
+
+
+hi "确实。"
+
+scene bg school_lobby_ni
+with locationchange
+
+
+"刚离开房间后，我真考虑了要不要去看看米莎在做些什么，只是因为静音的话听起来神秘兮兮的，就好像米莎在建造时间机器什么的。但最后，我还是决定放弃。"
+
+
+
+label zhs_S36:
+
+scene bg school_courtyard_ni
+with locationskip
+
+
+"每年的这个时候夜风都很怡人，清新且带着点微微的湿气，又没有冷到以至于出门就不舒服。现在也晚得使庭院看起来冷冷清清。"
+
+
+
+"在静音与我互相道别之后，我就往宿舍的方向走去。但还没走到宿舍，我就分心了。"
+
+
+
+"去看看米莎在做什么似乎不是个坏主意。 我没有一本值得我在宿舍读的书。而且，我纯粹是好奇。"
+
+
+scene bg school_lobby_ni
+with locationchange
+
+
+"这不是我第一次在放学后还在主教学楼里，但平常我都是和静音还有米莎一起，在学生会忙碌了一整天后从这里离开。从未独自进来过。"
+
+
+
+"一片沉寂。我一般不会用这个词形容走廊。前方有亮光。似乎随时都会发生恐怖电影的镜头。"
+
+
+play sound sfx_rustling
+with vpunch
+
+
+"有只手落在肩膀上，我本能地僵住了。"
+
+
+
+"不是米莎，也不会有双手遮住我的眼，然后被唱歌般地问道 “猜猜我是谁？”。 所以，到底是谁？ 我希望不是健二， 起码要是个我认识的人，不然就倒霉了。 "
+
+
+show shizu invis_close at tworight
+with None
+
+show shizu behind_blank_close_ni at center
+with dissolvecharamove
+
+play music music_happiness fadein 4.0
+
+
+"背后的人迅速闪到我面前。是静音。"
+
+
+
+hi "你在这干嘛？ "
+
+
+
+"我彻底松了口气，都忘了做手语。"
+
+
+show shizu adjust_frown_close_ni
+with charachange
+
+
+"静音把一根手指放在嘴唇上。我想即使她听不到，也能多少理解何为吵闹，并且能从我的表情中看出我说话声音很大。而且这时显然不能太吵。"
+
+
+
+"话说回来， 为什么米莎是她的翻译员？"
+
+
+
+hi "哦，太奇怪了。你为什么在这儿？"
+
+
+show shizu basic_normal_close_ni
+with charachange
+
+
+ssh "我一直在等你来。我知道你肯定会过来，不过你有点太慢了。"
+
+
+
+hi "你一直在这里等着？"
+
+show shizu behind_blank_close_ni
+with charachange
+
+
+ssh "对，但那不是重点。如果不想被米莎发现，我们就必须保持隐蔽。我太暴露时就告诉我，好吗？"
+
+
+show shizu basic_normal_close_ni
+with charachange
+
+
+"然后，静音踮着脚尖在走廊中间慢慢地走了起来。我拍了拍她的肩膀。"
+
+
+
+hi "那不叫隐蔽。"
+
+
+hi "为什么我们得偷偷摸摸的？"
+
+show shizu behind_frustrated_close_ni
+with charachange
+
+
+"她拒绝回答。也许是因为一边打手语一边蹑手蹑脚的不是很轻松。"
+
+
+scene bg school_hallway3_ni
+with locationskip
+
+
+"不知不觉中，我们就到了我们的教室前。"
+
+
+stop music fadeout 0.5
+play sound sfx_snap
+with vpunch
+
+
+"突然之间，一声鞭子般的脆响划破了宁静的气氛，接着是熟悉的失意声。"
+
+
+
+"我确定这种声音对我的心脏不好。更别提在现在这种情况下听起来比平常响了无数倍。声音从教室里传出，我悄悄走到静音的旁边想看看教室里面。"
+
+
+scene ev misha_nightclass:
+    center
+    xpos 0.4
+show ovl misha_nightclass_aperture at left
+with silentwhiteout
+
+play music music_comedy fadein 0.5
+
+
+mu "你能不能别再扔你的铅笔了？拜托！你到底是怎么把铅笔扔的那么响？"
+
+
+
+ssh "他看起来很烦躁。"
+
+
+"说得太轻了。我对昭夫老师深表同情。我都能透过墙壁还有厚重的教室门听到米莎的笔摔在墙上的声音。这声音搞不好刺破了他的耳膜还在墙上留下了印记。"
+
+
+show ev misha_nightclass:
